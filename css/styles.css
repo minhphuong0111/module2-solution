@@ -138,6 +138,7 @@
     border: 3px black solid;
     float: left;
     margin: 15px;
+    background-color: dimgray;
 }
 
 .chicken-header,
